@@ -1,2 +1,2 @@
-# zyciowadroga.blog.io   Witaj na blogu "Życiowa droga."Jest to miejsce, gdzie dzielę się swoimi przemyśleniami na temat życia, rozwoju osobistego,inspiracji podróży przez życie.
-Blog powstał z chęci dzielenia się swoimi doświadczeniami oraz motywowania innych i siebie do dążenia do swoich celów.Znajdziesz tutaj artykuły o rozwoju osobistym,inspiracje do życia pełnego pasji,moje przemyślenia na różne sprawy
+# zyciowadroga.blog.io      Witaj na blogu "Życiowa droga."Jest to miejsce, gdzie dzielę się swoimi przemyśleniami na temat życia, rozwoju osobistego,inspiracji podróży przez życie.
+Blog powstał z chęci dzielenia się swoimi doświadczeniami oraz motywowania innych i siebie do dążenia do swoich celów.Znajdziesz tutaj artykuły o rozwoju osobistym,inspiracje do życia pełnego pasji,moje przemyślenia na różne sprawy.
